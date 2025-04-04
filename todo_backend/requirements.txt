@@ -1,4 +1,4 @@
-asgiref==3.6.0
+asgiref==3.5.0
 dj-database-url==2.3.0
 Django==5.2
 django-cors-headers==4.7.0
@@ -9,4 +9,4 @@ typing_extensions==4.13.1
 tzdata==2025.2
 wheel>=0.42.0
 gunicorn
-build
+
